@@ -54,8 +54,4 @@ These projects have sharpened my analytical skills and reinforced the value of s
 
 
 
-Big Thanks to Adapala Naveen Kumar for your invaluable assistance on our recent project! Your expertise and support were key to its success. I truly appreciate your guidance and collaboration!"
-
-
-
 #DataScience #Python #DataVisualization #Storytelling #PopulationTrends #DataCleaning #MovieInsights
